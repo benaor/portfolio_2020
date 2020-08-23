@@ -35,6 +35,9 @@
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/custom.css">
 
+    <!-- vue.js -->
+    <script src="js/vue.js"></script>
+
 </head>
 
 <body>
@@ -66,6 +69,7 @@
     <!--
         Js
     ============================================= -->
+    <script src="js/home.js"></script>
     <script src="js/vendor/jquery-2.2.4.min.js"></script>
     <script src="js/vendor/popper.min.js"></script>
     <script src="js/vendor/bootstrap.min.js"></script>
