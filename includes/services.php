@@ -17,28 +17,10 @@
                 </div>
                 <div class="col-lg-6 col-md-6 service-right">
                     <div class="row">
-                        <div class="col-lg-6 col-md-6 col-sm-6">
+                        <div class="col-lg-6 col-md-6 col-sm-6" v-for="(service, i) in services">
                             <div class="single-service pb-40">
-                                <i class="fa fa-line-chart" aria-hidden="true"></i>
-                                <h4>Strategy solution</h4>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="single-service pb-40">
-                                <i class="fa fa fa-rocket" aria-hidden="true"></i>
-                                <h4>Seo Marketing</h4>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6 ">
-                            <div class="single-service">
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <h4>highquality</h4>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6 ">
-                            <div class="single-service">
-                                <i class="fa fa-bolt" aria-hidden="true"></i>
-                                <h4>Fast Growth</h4>
+                                <i :class="service.classLogo" aria-hidden="true"></i>
+                                <h4>{{ service.title }}</h4>
                             </div>
                         </div>
                     </div>

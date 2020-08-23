@@ -38,3 +38,27 @@ new Vue({
     }
 })
 
+//SERVICES
+new Vue({
+    el: "#service-section",
+    data: {
+        services: [
+            {
+                title: 'front-end',
+                classLogo: 'fa fa-code'
+            },
+            {
+                title: 'Back-end',
+                classLogo: 'fa fa-cogs'
+            },
+            {
+                title: 'Outils de développement',
+                classLogo: 'fa fa-wrench'
+            },
+            {
+                title: 'Référencement SEO',
+                classLogo: 'fa fa-rocket'
+            },
+        ]
+    }
+})
