@@ -3,16 +3,13 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-5 col-md-6 service-left">
-                    <h4>Our Services</h4>
-                    <h1>What Service we Provide</h1>
+                    <h4>Mes Services</h4>
+                    <h1>Mes champs de compétences</h1>
                     <p>
-                        Savings her pleased are several started females met. Short her not among being any. Thing of judge fruit charm views do.Miles
-                        mr an forty along as he. She education get middleton day agreement performed preserved unwilling.
-                        Do however as pleased offence.
+                        Grâce a l'Access code school, et a un apprentissage en autodidacte j'ai developpé des compétences dans le developpement web que j'améliore de jour en jour grâce au e-learning.
                     </p>
                     <p>
-                        By outward neither he so covered amiable greater. Juvenile proposal betrayed he an informed weddings followed. Precaution
-                        day see imprudence sympathize principles. At full leaf.
+                        Vous pouvez me confier vos développements front-end et back-end. Je sais m'adapter aux différents outils utilisé par vos équipes, et je suis capable d'optimiser le référencement SEO de vos site web.
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-6 service-right">
