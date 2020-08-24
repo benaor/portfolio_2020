@@ -62,3 +62,61 @@ new Vue({
         ]
     }
 })
+
+//COMPETENCES
+new Vue({
+    el: "#competences-section",
+    data: {
+        stacks: [
+            {
+                techno: 'HTML',
+                percentage: 90
+            },
+            {
+                techno: 'CSS',
+                percentage: 80
+            },
+            {
+                techno: 'Bootstrap',
+                percentage: 75
+            },
+            {
+                techno: 'JavaScript',
+                percentage: 60
+            },
+            {
+                techno: 'jQuery',
+                percentage: 60
+            },
+            {
+                techno: 'ReactJS',
+                percentage: 30
+            },
+            {
+                techno: 'VueJS',
+                percentage: 45
+            },
+            {
+                techno: 'PHP',
+                percentage: 70
+            },
+            {
+                techno: 'mySQL',
+                percentage: 50
+            },
+            {
+                techno: 'Symfony',
+                percentage: 60
+            },
+            {
+                techno: 'GIT',
+                percentage: 80
+            },
+            {
+                techno: 'Docker',
+                percentage: 30
+            },
+        ]
+    }
+})
+
