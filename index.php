@@ -59,9 +59,7 @@
     <?php include('includes/testimonials.php') ?>
 
     <?php include('includes/statistics.php') ?>
-
-    <?php include('includes/brands.php') ?>
-
+    
     <?php include('includes/contact.php') ?>
 
     <?php include('includes/footer.php') ?>

@@ -279,3 +279,27 @@ new Vue({
         ]
     }
 })
+
+new Vue({
+    el: "#stats",
+    data: {
+        stats : [
+            {
+                text: 'repositories github',
+                number: 29
+            },
+            {
+                text: 'Cours e-learning terminée',
+                number: 20
+            },
+            {
+                text: 'Cup of coffee',
+                number: 3854
+            },
+            {
+                text: 'année(s) de formation',
+                number: 1
+            },
+        ]
+    }
+})
