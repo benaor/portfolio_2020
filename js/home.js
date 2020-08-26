@@ -255,3 +255,27 @@ new Vue({
     }
 })
 
+//TESTIMONIALS
+new Vue({
+    el: "#testimonials",
+    data: {
+        testimonials: [
+            {
+                text: 'Si vous cherchez une personne volontaire et qui bosse bien je vous conseille Benjamin Girard',
+                author: 'Alain Merucci'
+            },
+            {
+                text: "Je ne perds jamais, soit je gagne, soit j'apprends.",
+                author: 'Nelson Mandela'
+            },
+            {
+                text: "Le succès est une échelle. Et une échelle ne peut pas se grimper les mains dans les poches ",
+                author: 'Proverbe Americain'
+            },
+            {
+                text: "Le succès justifie tous les moyens dont on s'est servi pour y parvenir.",
+                author: 'proverbe francais'
+            },
+        ]
+    }
+})
