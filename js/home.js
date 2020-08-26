@@ -188,6 +188,70 @@ new Vue({
                 stack: 'JavaScript',
                 img: 'justePrix.png'
             },
+            {
+                title: 'Prix du bitcoin',
+                git: 'https://github.com/benaor/Bitcoin-Price',
+                urlLink: 'https://bitcoin.benaor.fr',
+                stack: 'JavaScript / AJAX',
+                img: 'bitcoin.png'
+            },
+            {
+                title: 'Vesoul Edition',
+                git: 'https://github.com/benaor/vesoul-edition',
+                urlLink: null,
+                stack: 'PHP / SYMFONY / JavaScript / AJAX',
+                img: 'vesoul.png'
+            },
+            {
+                title: 'Chat React',
+                git: 'https://github.com/benaor/tchat-react',
+                urlLink: 'https://react-tchat.benaor.fr',
+                stack: 'REACT',
+                img: 'react-tchat.png'
+            },
+            {
+                title: 'hebergeur d\'images',
+                git: 'https://github.com/benaor/host-img',
+                urlLink: null,
+                stack: 'PHP',
+                img: 'hostimg.png'
+            },
+            {
+                title: 'agence immobilière',
+                git: 'https://github.com/benaor/agence-immo',
+                urlLink: 'https://agence-immo.benaor.fr',
+                stack: 'PHP',
+                img: 'agence-immo.png'
+            },
+            {
+                title: 'Compteur de visites',
+                git: 'https://github.com/benaor/visitor_counter',
+                urlLink: 'https://visit.benaor.fr',
+                stack: 'PHP',
+                img: 'visit.png'
+            },
+            {
+                title: 'explorateur de fichier',
+                git: 'https://github.com/benaor/CLOUD',
+                urlLink: 'https://cloud.benaor.fr',
+                stack: 'PHP',
+                img: 'explorer.png'
+            },
+            {
+                title: 'Monitoring de site web',
+                git: 'https://github.com/benaor/monitoring',
+                urlLink: 'https://monitoring.benaor.fr',
+                stack: 'Symfony',
+                img: 'monitoring.png'
+            },
+            {
+                title: 'optimiser Dope Thème avec vuJS',
+                git: 'https://github.com/benaor/CLOUD',
+                urlLink: 'https://dope-theme.benaor.fr',
+                stack: 'vueJS',
+                img: 'dope-theme.png'
+            },
         ]
     }
 })
+
