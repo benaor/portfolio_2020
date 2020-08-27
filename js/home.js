@@ -280,6 +280,7 @@ new Vue({
     }
 })
 
+//STATISTICS
 new Vue({
     el: "#stats",
     data: {
@@ -300,6 +301,28 @@ new Vue({
                 text: 'année(s) de formation',
                 number: 1
             },
+        ]
+    }
+})
+
+//FOOTER
+new Vue({
+    el: "#footer",
+    data: {
+        reseaux : [
+            {
+                link: 'https://www.facebook.com/benaor24/',
+                nameNetwork: 'facebook'
+            },
+            {
+                link: 'https://www.linkedin.com/in/benjamin-girard-3607a1197/',
+                nameNetwork: 'linkedin'
+            },
+            {
+                link: 'https://github.com/benaor',
+                nameNetwork: 'github'
+            },
+            
         ]
     }
 })
