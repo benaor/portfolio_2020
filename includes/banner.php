@@ -6,9 +6,9 @@
                 <div class="col-lg-12 bg-title-banner p-5">
                     <h1 class="text-uppercase"> <strong class="banner-girard">GIRARD</strong> <span class="banner-benjamin"> Benjamin</span></h1>
                     <p class="dev-web">Développeur web et web mobile.</p> <br>
-                    <p class="mt-4">étudiant à l'Access Code School <br>
-                                [RECHERCHE ALTERNANCE]</p>
-                    </p>
+                    <p class="mt-4">étudiant à l'Access Code School </p> <br>
+                    <p> [RECHERCHE ALTERNANCE]</p> <br>
+                    <a href="downloads/CV_GIRARD_2020.pdf" class="btn btn-secondary btn-lg mt-3">Voir mon CV</a> <br>
                 </div>
             </div>
         </div>
